@@ -1,5 +1,2 @@
 - 👋 Hi, I’m Luca D'Aprano
-- 👀 I’m currently learning new skills and enjoying the journey
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on anything that will expand my knowledge and benefit others
 - 📫 How to reach me: email: luca.daprano@outlook.com
